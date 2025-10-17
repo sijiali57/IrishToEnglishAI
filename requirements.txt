@@ -1,0 +1,6 @@
+altair==4.2.2
+streamlit==1.18.0
+transformers==4.42.3
+datasets==2.14.5
+torch==2.0.0
+sentencepiece==0.2.0
